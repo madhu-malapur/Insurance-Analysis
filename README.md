@@ -98,7 +98,9 @@ Top open opportunities mostly range between 0.30M – 0.50M
 The Insurance Dashboard reveals that while renewal targets are close to being met, cross-sell and new business areas significantly lag behind targets. Most meetings and invoices are concentrated among a few executives, highlighting performance gaps. Overall, the dashboard provides clear insights into opportunity stages and sales effectiveness, helping identify focus areas for improvement.
 
 ## Download the files:
-https://github.com/madhu-malapur/Insurance-Analysis/blob/main/SQL%20SS.png
+![Insurance Dashboard]https://github.com/madhu-malapur/Insurance-Analysis/blob/main/insurance.pbix
+
+![SQL File]https://github.com/madhu-malapur/Insurance-Analysis/blob/main/insurance%20sql%20file.sql
 
 
 
