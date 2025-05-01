@@ -57,6 +57,57 @@ Arrange in a dashboard layout for insights.
 
 ## SQL File Screenshot
 
+![SQL Screenshot](https://raw.githubusercontent.com/madhu-malapur/Insurance-Analysis/main/SQL%20SS.png)
+
+# 🔍 Project Insights – Insurance Dashboard
+Objective: Track performance across sales types (Cross Sell, New, Renewal), account executives, and opportunities.
+
+Key Metrics:
+
+CSIA%: 15.14%,CSPA%: 48.6%,NIA%: 4.21%,NPA%: 11.23%,RIA%: 68.14%,RPA%: 88.77%
+
+Sales Performance:
+
+Cross Sell: Target 20M, Achieved 3M
+
+New Sales: Target 20M, Achieved 2M
+
+Renewals: Target 10.5M, Achieved 8.4M
+
+Meetings:
+
+Most meetings by Abhinav Shivam (7)
+
+Majority of meetings (91%) occurred in 2020
+
+Invoices:
+
+Highest number by Gilbert (63 invoices)
+
+Stage Funnel by Revenue:
+
+Majority in “Qualified Opportunity” stage: 6M
+
+Opportunities:
+
+44 Open and 49 Total Opportunities
+
+Top open opportunities mostly range between 0.30M – 0.50M
+
+## ✅ Conclusion
+The Insurance Dashboard reveals that while renewal targets are close to being met, cross-sell and new business areas significantly lag behind targets. Most meetings and invoices are concentrated among a few executives, highlighting performance gaps. Overall, the dashboard provides clear insights into opportunity stages and sales effectiveness, helping identify focus areas for improvement.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
