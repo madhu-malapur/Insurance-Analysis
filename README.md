@@ -51,3 +51,14 @@ Use slicers/filters for interactivity.
 
 Arrange in a dashboard layout for insights.
 
+## Dashboard
+
+![Insurance Dashboard](https://raw.githubusercontent.com/madhu-malapur/Insurance-Analysis/main/Insurance%20SS.png)
+
+## SQL File Screenshot
+
+
+
+
+
+
